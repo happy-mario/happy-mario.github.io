@@ -4,4 +4,6 @@ title: "happy-mario"
 permalink: /about
 ---
 
-![credit](/Users/mariotedeschi/Desktop/credets.png)
+# Mario's Website
+
+![credit](credets.png)
