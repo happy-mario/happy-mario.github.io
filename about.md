@@ -5,6 +5,6 @@ title: "happy-mario"
 
 # Mario's About Page
 
-### Resume: Visit 
+<a href=“happy-mario.github.io/resume”>Visit my resume</a>
 
 
