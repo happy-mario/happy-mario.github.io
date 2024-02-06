@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: page
 title: "happy-mario"
 permalink: /credits/gravity
 ---
