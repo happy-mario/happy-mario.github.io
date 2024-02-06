@@ -9,7 +9,7 @@ permalink: /credits/gravity
     attribute vec4 position;
     varying vec2 rockUv;
     varying vec2 uv;
-    varying mat2 rotation;
+    varying mat2 rotation;n
     uniform float time;
     uniform float angle;
     uniform vec2 offset;
