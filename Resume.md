@@ -11,6 +11,9 @@ permalink: /resume
 #### My first GitHub project, just a silly little thing I hope someone uses 
 <h3><a href="https://github.com/happy-mario/Advisory_Email-Website_Bot/blob/main/README.md" target="_blank">Work in progress!! Advisry snack bot:</a></h3>
 
-#### Update 1: got the email stuff workn' n dat right but like the 'ole bliming people part is not up workn' init.
+### My second email bot:
+#### this is going to send an email to the person in my school advisory that has to bring in snack on the day they have snack. I am using smptplib for the email and im not entirely sure what im doing for the whole name part. 
+### Update 1: 
+#### got the email stuff workn' n dat right but like the 'ole bliming people part is not up workn' init. I'm going to set the name variable to be the person's name so it makes it easier for me, as I will use the same variable to send the email.
 
 
